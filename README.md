@@ -1,7 +1,8 @@
 # PyBer_Analysis
-PyBer Analysis ReadMe Writeup
+
 ## Overview
 This PyBer Analysis summarizes how Pandas were used in analyzing Ride-Share data for cities to calculate the number of rides, drivers and total fares  by Omar and I for out boss V. Isualize.
+https://github.com/WoyramA/PyBer_Analysis/blob/main/PyBer_Challenge.ipynb
 
 ## Deliverable 1: A ride-sharing summary DataFrame by city type
  Deliverable 1 shows how Omar and I used ride -sharing data to analyze the total number of rides, total number of drivers, and the total fares for each city type from two DataFrames: City_Data and Ride_Data.
