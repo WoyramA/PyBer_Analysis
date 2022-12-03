@@ -12,10 +12,15 @@ Deliverable 2 shows how Omar and I deployed our skills in Pandas to present a mu
 
 ## Results
 The results Omar and I drew from the data analyzed using our Pandas skills are listed below:
-### Urban cities reported the largest total rides, followed by the suburban cities with the rural cities having the lowest number of total rides.
-### Rural drivers recorded the least total number of drivers, being 1/6 the total number of Suburban drivers while Urban drivers were approximately 5 times the total number of suburban drivers.
-### The total amount of fares in the urban cities was double the average fare from the suburban cities, which in turn were 4.5 times how much the average fare per ride made in the rural cities.
-### Comparatively, the average fare per driver was rather highest among the drivers in rural cites as compared to drivers in the other cities. The Suburban drivers had double the average fare drivers in the urban cities received per driver.
+### 
+Urban cities reported the largest total rides, followed by the suburban cities with the rural cities having the lowest number of total rides.
+
+### 
+Rural drivers recorded the least total number of drivers, being 1/6 the total number of Suburban drivers while Urban drivers were approximately 5 times the total number of suburban drivers.
+### 
+The total amount of fares in the urban cities was double the average fare from the suburban cities, which in turn were 4.5 times how much the average fare per ride made in the rural cities.
+### 
+Comparatively, the average fare per driver was rather highest among the drivers in rural cites as compared to drivers in the other cities. The Suburban drivers had double the average fare drivers in the urban cities received per driver.
 
 ## Summary
 Mr V. Isualize, it was noted that between January and April, 2019, the results show that the fares by week in increased in late February in Rural, Suburban and Urban cities. It could therefore be recommended that Late February is a good month to optimize a ride-share business.
